@@ -9,6 +9,7 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/anovc/itstart.git
+   cd itstart
    ```
 
 2. Установите зависимости:
